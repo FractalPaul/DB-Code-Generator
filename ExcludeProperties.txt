@@ -1,0 +1,6 @@
+﻿Name,string
+Id,int
+UpdatedBy,int
+UpdatedOn,DateTime
+IsActive,bool
+IsDeleted,bool
